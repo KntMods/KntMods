@@ -19,14 +19,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
-2. ❌ Closed PR [#1](https://github.com/KntMods01/ngrok-rdp/pull/1) in [KntMods01/ngrok-rdp](https://github.com/KntMods01/ngrok-rdp)
-3. 💪 Opened PR [#1](https://github.com/KntMods01/ngrok-rdp/pull/1) in [KntMods01/ngrok-rdp](https://github.com/KntMods01/ngrok-rdp)
+2. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
+3. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
 4. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
-5. ⬆️ Pushed 1 commit(s) to [KntMods/ngrok-rdp](https://github.com/KntMods/ngrok-rdp)
+5. ❌ Closed PR [#1](https://github.com/KntMods01/ngrok-rdp/pull/1) in [KntMods01/ngrok-rdp](https://github.com/KntMods01/ngrok-rdp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 22nd, 2022, 8:56:23 PM
+Last Updated: Thursday, December 22nd, 2022, 9:06:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
