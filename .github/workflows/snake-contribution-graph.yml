@@ -1,0 +1,31 @@
+name: Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate
+        uses: Platane/snk@master
+        with:
+          github_user_name: avalynndev
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Push
+        uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
