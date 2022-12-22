@@ -5,7 +5,7 @@ settings:
   readme_file: "README.md"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+0:00"
+    timezone: "UTC/GMT +7:00"
     text: "###### Last Updated: {DATE}"
     format: "dS mmmm, yyyy @ HH:MMtt Z"
   commit_name: "github-actions"
