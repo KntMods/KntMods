@@ -13,15 +13,9 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
-2. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
-3. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
-4. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
-5. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 22nd, 2022, 10:11:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
