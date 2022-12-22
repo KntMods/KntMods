@@ -1,5 +1,5 @@
 <a href="https://github.com/KntMods" target="_blank">
-<img width="100%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api?username=KntMods&show_icons=true&theme=radical">
+<img width="100%" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=KntMods&show_icons=true&theme=radical">
 </a>
 
 <br />
