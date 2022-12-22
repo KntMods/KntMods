@@ -1,21 +1,23 @@
-<a href="https://github.com/KntMods" target="_blank">
-<img width="100%" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=KntMods&show_icons=true&theme=radical">
+<div align="center" style="text-align:center">
+    <a href="#" target="_blank">
+        <img width="80%" src="https://github-readme-stats.vercel.app/api?username=KntMods&show_icons=true&theme=monokai&count_private=true"
+            alt="KntMods's Github stats">
+    </a>
+    <a href="#" target="_blank">
+        <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=KntMods&theme=monokai"
+            alt="KntMods's Github commit streak">
+    </a>
+<a href="#" target="_blank">
+<img width="80%" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KntMods&border_radius=5px&theme=monokai&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats&v=2">
 </a>
 
-<br />
+</div>
 
-<a href="https://github.com/KntMods" target="_blank">
-<img width="100%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KntMods&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2">
-</a>
+
 
 </br>
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C151%20hrs%2021%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-836-blue)
-
 <!--END_SECTION:waka-->
 
 </br>
@@ -31,7 +33,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 22nd, 2022, 9:47:50 PM
+Last Updated: Thursday, December 22nd, 2022, 9:36:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
