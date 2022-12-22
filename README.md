@@ -14,9 +14,9 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 22nd, 2022, 1:50:11 PM
+Last Updated: Thursday, December 22nd, 2022, 1:44:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
 
-![Snake Commits](https://raw.githubusercontent.com/KntMods/KntMods/e7cc130b71cdb75f5598d2d6c3076f6aa0f2585b/github-contribution-grid-snake.svg)
+![Snake Commits]
