@@ -25,15 +25,15 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KntMods/vegenta-api](https://github.com/KntMods/vegenta-api) from [vegenta/vegenta-api](https://github.com/vegenta/vegenta-api)
-2. 🎉 Merged PR [#12](https://github.com/KntMods/animasu/pull/12) in [KntMods/animasu](https://github.com/KntMods/animasu)
-3. ⬆️ Pushed 2 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
-4. 💪 Opened PR [#12](https://github.com/KntMods/animasu/pull/12) in [KntMods/animasu](https://github.com/KntMods/animasu)
-5. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
+1. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
+2. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
+3. 🎉 Merged PR [#10](https://github.com/KntMods/animasu-api/pull/10) in [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
+4. 💪 Opened PR [#10](https://github.com/KntMods/animasu-api/pull/10) in [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
+5. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 23rd, 2022, 11:59:48 AM
+Last Updated: Friday, December 23rd, 2022, 12:25:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
