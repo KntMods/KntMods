@@ -25,15 +25,15 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
-2. ⬆️ Pushed 1 commit(s) to [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
-3. 🎉 Merged PR [#2](https://github.com/KntMods/AnimeLazer/pull/2) in [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
+1. ⬆️ Pushed 1 commit(s) to [KntMods/animexninja](https://github.com/KntMods/animexninja)
+2. 🔱 Forked [KntMods/animexninja](https://github.com/KntMods/animexninja) from [routayush1/animexninja](https://github.com/routayush1/animexninja)
+3. ⬆️ Pushed 1 commit(s) to [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
 4. ⬆️ Pushed 1 commit(s) to [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
-5. 🎉 Merged PR [#3](https://github.com/KntMods/AnimeLazer/pull/3) in [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
+5. 🎉 Merged PR [#2](https://github.com/KntMods/AnimeLazer/pull/2) in [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 23rd, 2022, 7:19:49 AM
+Last Updated: Friday, December 23rd, 2022, 7:25:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
