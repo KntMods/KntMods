@@ -29,11 +29,11 @@
 2. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
 3. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
 4. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
-5. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
+5. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 23rd, 2022, 6:30:18 PM
+Last Updated: Friday, December 23rd, 2022, 6:38:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
