@@ -25,15 +25,15 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#10](https://github.com/KntMods/animasu/pull/10) in [KntMods/animasu](https://github.com/KntMods/animasu)
-2. 🎉 Merged PR [#8](https://github.com/KntMods/animasu/pull/8) in [KntMods/animasu](https://github.com/KntMods/animasu)
-3. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
-4. 💪 Opened PR [#8](https://github.com/KntMods/animasu/pull/8) in [KntMods/animasu](https://github.com/KntMods/animasu)
+1. 🎉 Merged PR [#12](https://github.com/KntMods/animasu/pull/12) in [KntMods/animasu](https://github.com/KntMods/animasu)
+2. ⬆️ Pushed 2 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
+3. 💪 Opened PR [#12](https://github.com/KntMods/animasu/pull/12) in [KntMods/animasu](https://github.com/KntMods/animasu)
+4. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
 5. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 23rd, 2022, 8:58:43 AM
+Last Updated: Friday, December 23rd, 2022, 9:11:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
