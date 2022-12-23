@@ -25,15 +25,15 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KntMods/animex](https://github.com/KntMods/animex) from [KunalSingh19/animex](https://github.com/KunalSingh19/animex)
-2. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
+1. 🔱 Forked [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer) from [riimuru/AnimeLazer](https://github.com/riimuru/AnimeLazer)
+2. 🔱 Forked [KntMods/animex](https://github.com/KntMods/animex) from [KunalSingh19/animex](https://github.com/KunalSingh19/animex)
 3. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
 4. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
 5. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 23rd, 2022, 5:18:54 AM
+Last Updated: Friday, December 23rd, 2022, 5:26:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
