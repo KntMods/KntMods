@@ -25,15 +25,15 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
-2. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
-3. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
-4. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
+1. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
+2. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
+3. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
+4. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
 5. ⬆️ Pushed 1 commit(s) to [KntMods/animasu-api](https://github.com/KntMods/animasu-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 23rd, 2022, 6:16:20 PM
+Last Updated: Friday, December 23rd, 2022, 6:30:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
