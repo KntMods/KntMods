@@ -25,15 +25,15 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KntMods/animasu](https://github.com/KntMods/animasu)
-2. ⬆️ Pushed 1 commit(s) to [KntMods/animexninja](https://github.com/KntMods/animexninja)
-3. 🔱 Forked [KntMods/animexninja](https://github.com/KntMods/animexninja) from [routayush1/animexninja](https://github.com/routayush1/animexninja)
-4. ⬆️ Pushed 1 commit(s) to [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
-5. ⬆️ Pushed 1 commit(s) to [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
+1. 🎉 Merged PR [#7](https://github.com/KntMods/animasu/pull/7) in [KntMods/animasu](https://github.com/KntMods/animasu)
+2. 💪 Opened PR [#7](https://github.com/KntMods/animasu/pull/7) in [KntMods/animasu](https://github.com/KntMods/animasu)
+3. 💪 Opened PR [#6](https://github.com/KntMods/animasu/pull/6) in [KntMods/animasu](https://github.com/KntMods/animasu)
+4. 📔 Created new repository [KntMods/animasu](https://github.com/KntMods/animasu)
+5. ⬆️ Pushed 1 commit(s) to [KntMods/animexninja](https://github.com/KntMods/animexninja)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 23rd, 2022, 7:41:36 AM
+Last Updated: Friday, December 23rd, 2022, 7:46:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
