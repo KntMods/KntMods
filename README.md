@@ -21,6 +21,21 @@
 <!--END_SECTION:waka-->
 
 </br>
+<details>
+    <summary align="left">Languages and Tools:</summary> 
+       <a href="https://nodejs.org" target="_blank"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> 
+       </a>  
+       <a href="https://expressjs.com" target="_blank"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" /> 
+       </a> 
+       <a href="https://www.nextjs.org" target="_blank"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40" /> 
+       </a> 
+       <a href="https://reactjs.org/" target="_blank"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> 
+       </a>
+  </details>
 
 ### 📄 Recent Activity
 
@@ -33,7 +48,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 26th, 2022, 5:53:50 PM
+Last Updated: Monday, December 26th, 2022, 5:26:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
