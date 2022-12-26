@@ -40,15 +40,15 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KntMods/vegenta-api](https://github.com/KntMods/vegenta-api) from [vegenta/vegenta-api](https://github.com/vegenta/vegenta-api)
-2. ⬆️ Pushed 1 commit(s) to [KntMods/animexninja](https://github.com/KntMods/animexninja)
-3. 🔱 Forked [KntMods/animexninja](https://github.com/KntMods/animexninja) from [routayush1/animexninja](https://github.com/routayush1/animexninja)
-4. ⬆️ Pushed 1 commit(s) to [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
+1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
+2. 🔱 Forked [KntMods/vegenta-api](https://github.com/KntMods/vegenta-api) from [vegenta/vegenta-api](https://github.com/vegenta/vegenta-api)
+3. ⬆️ Pushed 1 commit(s) to [KntMods/animexninja](https://github.com/KntMods/animexninja)
+4. 🔱 Forked [KntMods/animexninja](https://github.com/KntMods/animexninja) from [routayush1/animexninja](https://github.com/routayush1/animexninja)
 5. ⬆️ Pushed 1 commit(s) to [KntMods/AnimeLazer](https://github.com/KntMods/AnimeLazer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 26th, 2022, 5:26:10 PM
+Last Updated: Monday, December 26th, 2022, 5:59:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
