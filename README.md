@@ -40,15 +40,15 @@
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KntMods/animasu](https://github.com/KntMods/animasu)
-2. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
-3. 🔱 Forked [KntMods/vegenta-api](https://github.com/KntMods/vegenta-api) from [vegenta/vegenta-api](https://github.com/vegenta/vegenta-api)
-4. ⬆️ Pushed 1 commit(s) to [KntMods/animexninja](https://github.com/KntMods/animexninja)
-5. 🔱 Forked [KntMods/animexninja](https://github.com/KntMods/animexninja) from [routayush1/animexninja](https://github.com/routayush1/animexninja)
+1. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
+2. 📔 Created new repository [KntMods/animasu](https://github.com/KntMods/animasu)
+3. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
+4. 🔱 Forked [KntMods/vegenta-api](https://github.com/KntMods/vegenta-api) from [vegenta/vegenta-api](https://github.com/vegenta/vegenta-api)
+5. ⬆️ Pushed 1 commit(s) to [KntMods/animexninja](https://github.com/KntMods/animexninja)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 27th, 2022, 5:56:35 AM
+Last Updated: Tuesday, December 27th, 2022, 6:10:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
