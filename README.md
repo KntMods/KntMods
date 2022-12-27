@@ -41,14 +41,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
-2. 📔 Created new repository [KntMods/animasu](https://github.com/KntMods/animasu)
-3. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
-4. 🔱 Forked [KntMods/vegenta-api](https://github.com/KntMods/vegenta-api) from [vegenta/vegenta-api](https://github.com/vegenta/vegenta-api)
-5. ⬆️ Pushed 1 commit(s) to [KntMods/animexninja](https://github.com/KntMods/animexninja)
+2. ⬆️ Pushed 1 commit(s) to [KntMods/animasu](https://github.com/KntMods/animasu)
+3. 📔 Created new repository [KntMods/animasu](https://github.com/KntMods/animasu)
+4. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)
+5. 🔱 Forked [KntMods/vegenta-api](https://github.com/KntMods/vegenta-api) from [vegenta/vegenta-api](https://github.com/vegenta/vegenta-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 27th, 2022, 6:10:07 AM
+Last Updated: Tuesday, December 27th, 2022, 6:28:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
