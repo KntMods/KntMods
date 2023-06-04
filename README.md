@@ -51,7 +51,7 @@
 
 ![Snake Commits](https://raw.githubusercontent.com/KntMods/KntMods/output/github-contribution-grid-snake-dark.svg)
 
-
+ <br /><br />
   <h2> 📄 Recent Activity </h2><br>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
