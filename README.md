@@ -33,6 +33,15 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
   </details>
 
+<div align="center">
+  <h2> 🏆 My Github Stats </h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=KntMods&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=KntMods&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KntMods&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KntMods&custom_title=Kanetav's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Kanetav's Github Activity Graph" width="100%">
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
@@ -44,10 +53,11 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 4th, 2023, 7:09:18 AM
+Last Updated: Sunday, June 4th, 2023, 6:58:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
 
 
 ![Snake Commits](https://raw.githubusercontent.com/KntMods/KntMods/output/github-contribution-grid-snake-dark.svg)
+</div>
