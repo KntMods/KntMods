@@ -22,6 +22,7 @@
 </br>
 <details>
 <summary align="left">Languages and Tools:</summary>  
+<br />
 <!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -33,10 +34,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>-->
   <img src="https://skillicons.dev/icons?i=nextjs,express,react,html,nodejs,javascript,php,css,visualstudio" alt="skills planning to learn logos">
   </details>
-<br /><br />
+<br />
  <details>
 <summary align="left">📄 Recent Activity</summary>  
-<br /><br />
+<br />
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
 2. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
