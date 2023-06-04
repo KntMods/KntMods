@@ -43,7 +43,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KntMods&custom_title=Kanetav's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Kanetav's Github Activity Graph" width="100%">
   </br></br>
-### 📄 Recent Activity
+ <details>
+<summary align="left">📄 Recent Activity</summary>  
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
@@ -56,7 +57,7 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Sunday, June 4th, 2023, 6:58:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-
+ </details>
 <br />
 
 
