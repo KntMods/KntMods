@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,webpack,vite,html,css,tailwind,js,ts,react,nextjs,firebase,mongodb,mysql,svg,vscode,postman,netlify,vercel" alt="skills logos" /> <br>
   <h2></h2>
    
-  <h2> 🏆 My Github Stats </h2><br>
+  <h2><strong> 🏆 My Github Stats </strong><img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=KntMods&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=KntMods&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=KntMods&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
@@ -43,7 +43,7 @@
 ![Snake Commits](https://raw.githubusercontent.com/KntMods/KntMods/output/github-contribution-grid-snake-dark.svg)
 
  <br /><br />
-  <h2> 📄 Recent Activity </h2><br>
+  <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
