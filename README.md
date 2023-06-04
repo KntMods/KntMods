@@ -39,7 +39,7 @@
 <div align="center">
 <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=nextjs,express,react,html,nodejs,javascript,php,css,visualstudio" alt="skills planning to learn logos">
-   <br /><br />
+   <br /><br /> <br /><br />
    
   <h2> 🏆 My Github Stats </h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=KntMods&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
