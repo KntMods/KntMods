@@ -43,7 +43,7 @@
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KntMods &theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,webpack,vite,html,css,tailwind,js,ts,react,nextjs,firebase,mongodb,mysql,svg,vscode,postman,netlify,vercel" alt="skills logos" /> <br>
