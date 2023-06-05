@@ -46,15 +46,15 @@
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
-2. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
-3. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
+1. ⭐ Starred [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
+2. ⭐ Starred [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
+3. ⭐ Starred [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
 4. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
 5. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 5th, 2023, 4:37:56 AM
+Last Updated: Monday, June 5th, 2023, 4:43:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
