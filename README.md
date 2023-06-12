@@ -46,15 +46,15 @@
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KntMods/e-commerce-1](https://github.com/KntMods/e-commerce-1) from [switckiy/e-commerce](https://github.com/switckiy/e-commerce)<br>
-2. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
+1. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
+2. 🔱 Forked [KntMods/e-commerce-1](https://github.com/KntMods/e-commerce-1) from [switckiy/e-commerce](https://github.com/switckiy/e-commerce)<br>
 3. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
 4. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
 5. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 12th, 2023, 7:32:43 PM
+Last Updated: Monday, June 12th, 2023, 7:38:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
