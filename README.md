@@ -46,15 +46,15 @@
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Updaate](https://github.com/KntMods/e-commerce/releases/tag/Update) in [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
-2. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
+1. ⭐ Starred [hicmtrex/Tmovies](https://github.com/hicmtrex/Tmovies)<br>
+2. ✌️ Released [Updaate](https://github.com/KntMods/e-commerce/releases/tag/Update) in [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
 3. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
-4. 🔱 Forked [KntMods/e-commerce-1](https://github.com/KntMods/e-commerce-1) from [switckiy/e-commerce](https://github.com/switckiy/e-commerce)<br>
-5. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
+4. ⬆️ Pushed 1 commit(s) to [KntMods/e-commerce](https://github.com/KntMods/e-commerce)<br>
+5. 🔱 Forked [KntMods/e-commerce-1](https://github.com/KntMods/e-commerce-1) from [switckiy/e-commerce](https://github.com/switckiy/e-commerce)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 28th, 2023, 3:53:00 PM
+Last Updated: Wednesday, June 28th, 2023, 3:58:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
