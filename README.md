@@ -46,12 +46,10 @@
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KntMods/my-rest-api](https://github.com/KntMods/my-rest-api)<br>
-2. 🔱 Forked [KntMods/my-rest-api](https://github.com/KntMods/my-rest-api) from [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 1st, 2023, 12:45:01 AM
+Last Updated: Sunday, October 1st, 2023, 1:45:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
