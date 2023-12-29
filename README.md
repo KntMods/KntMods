@@ -46,11 +46,12 @@
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KntMods/AnitiumNet](https://github.com/KntMods/AnitiumNet) from [qorenx/AnitiumNet](https://github.com/qorenx/AnitiumNet)<br>
+1. ⭐ Starred [mirsazzathossain/mirsazzathossain.me](https://github.com/mirsazzathossain/mirsazzathossain.me)<br>
+2. 🔱 Forked [KntMods/AnitiumNet](https://github.com/KntMods/AnitiumNet) from [qorenx/AnitiumNet](https://github.com/qorenx/AnitiumNet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 29th, 2023, 10:09:51 AM
+Last Updated: Friday, December 29th, 2023, 10:26:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
