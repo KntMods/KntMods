@@ -17,6 +17,8 @@
  <br /><br />
  
 <div align="center">
+  <img src="https://profile-counter.glitch.me/KntMods/count.svg" />
+
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
