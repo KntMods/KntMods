@@ -48,16 +48,16 @@
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
+1. ⭐ Starred [jsonmc/jsonmc](https://github.com/jsonmc/jsonmc)<br>
 2. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
-3. ⭐ Starred [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
+3. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
 4. ⭐ Starred [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
 5. ⭐ Starred [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 19th, 2024, 11:57:25 AM
+Last Updated: Friday, January 19th, 2024, 12:16:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
