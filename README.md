@@ -48,16 +48,16 @@
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [seiya-dev/pokemon-tv](https://github.com/seiya-dev/pokemon-tv)<br>
-2. ⭐ Starred [seiya-dev/pokemon-tv](https://github.com/seiya-dev/pokemon-tv)<br>
-3. ⭐ Starred [jsonmc/jsonmc](https://github.com/jsonmc/jsonmc)<br>
-4. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
-5. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
+1. ⭐ Starred [Dovakiin0/anime-data](https://github.com/Dovakiin0/anime-data)<br>
+2. ⭐ Starred [Dovakiin0/anime-data](https://github.com/Dovakiin0/anime-data)<br>
+3. ⭐ Starred [seiya-dev/pokemon-tv](https://github.com/seiya-dev/pokemon-tv)<br>
+4. ⭐ Starred [seiya-dev/pokemon-tv](https://github.com/seiya-dev/pokemon-tv)<br>
+5. ⭐ Starred [jsonmc/jsonmc](https://github.com/jsonmc/jsonmc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 17th, 2024, 8:22:04 AM
+Last Updated: Saturday, February 17th, 2024, 8:27:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
